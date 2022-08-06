@@ -420,7 +420,7 @@ svg.modal-svg {
   content: "";
   display: block;
 
-  background: url(/modal-svg/checkbox.svg);
+  background: url(../modal-svg/checkbox.svg);
   background-repeat: no-repeat;
   background-size: 12px;
   width: 14px;
